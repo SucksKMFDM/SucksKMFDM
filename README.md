@@ -52,5 +52,4 @@ $\color{#E53D53}\text{whatever}$ $\color{#9F2150}\text{chars I}$ $\color{#E53D53
 </details>
 
 </div>
-
 <img width="400" height="400" alt="Untitled1641_20261116224427" src="https://github.com/user-attachments/assets/18fd1ff9-9327-40b8-8aa7-4ef600927b08" />
