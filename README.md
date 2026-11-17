@@ -70,18 +70,18 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{The}$ $\color{#D43652}\text{Mandela}$ $\color{#B12851}\text{Catalogue}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{American}$ $\color{#D43652}\text{Horror}$ $\color{#B12851}\text{Story}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Natural}$ $\color{#C22F52}\text{Born}$ $\color{#9F2150}\text{Killers}$ <br>
-      $\color{#E53D53}\text{Resident}$ $\color{#C22F52}\text{Evil}$ $\color{#9F2150}\text{(2002)}$ <br>
+      $\color{#E53D53}\text{Resident}$ $\color{#C22F52}\text{Evil}$ $\color{#9F2150}\text{(2026)}$ <br>
       $\color{#E53D53}\text{Elephant}$ $\color{#9F2150}\text{(2003)}$ <br>
       $\color{#E53D53}\text{Creep}$ $\color{#9F2150}\text{(2014)}$ <br>
       $\color{#C22F52}\text{Spree}$ <br><br>
       $\color{#E53D53}\text{Web}$ $\color{#9F2150}\text{Series:}$ <br>
       $\color{#E53D53}\text{zeroday2003}$ $\color{#9F2150}\text{(favorite)}$ <br>
-      $\color{#C22F52}\text{EverymanHYBRID}$ <br><br>
+      $\color{#C22F52}\text{EverymanHYBRID}$ $\color{#9F2150}\text{(favorite)}$ <br><br>
       $\color{#C22F52}\text{Games:}$ <br>
       $\color{#E53D53}\text{Cry}$ $\color{#C22F52}\text{of}$ $\color{#9F2150}\text{Fear}$ <br>
       $\color{#C22F52}\text{Pyromania}$ <br>
       $\color{#E53D53}\text{No,}$ $\color{#D43652}\text{I'm}$ $\color{#C22F52}\text{Not}$ $\color{#B12851}\text{a}$ $\color{#9F2150}\text{Human}$ <br>
-      $\color{#E53D53}\text{DOOM}$ $\color{#9F2150}\text{(1993)}$ <br>
+      $\color{#E53D53}\text{DOOM}$ $\color{#9F2150}\text{(1993)}$ $\color{#9F2150}\text{(favorite)}$ <br>
       $\color{#E53D53}\text{Sally}$ $\color{#9F2150}\text{Face}$
       <br><br>
     </details>
