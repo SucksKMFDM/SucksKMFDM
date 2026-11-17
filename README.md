@@ -43,7 +43,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
     </details>
     <br>
     <details>
-      <summary>$\color{#9F2150}\text{IWC}$</summary>
+      <summary>$\color{#9F2150}\text{WIP}$</summary>
       <br>
       $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
       $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
@@ -53,7 +53,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
     </details>
     <br>
     <details>
-      <summary>$\color{#E53D53}\text{DNI}$</summary>
+      <summary>$\color{#E53D53}\text{WIP}$</summary>
       <br>
       $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
       $\color{#E53D53}\text{w}$ $\color{#9F2150}\text{i}$ $\color{#E53D53}\text{p}$ <br>
