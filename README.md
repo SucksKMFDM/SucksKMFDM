@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/925769c2-4064-4a99-8033-470928804b51" />
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/86ac2c83-bdc4-4701-ba50-2d507460812a" />
 
 
 <p>
@@ -18,11 +18,6 @@ ${{\color{#9F2150}\texttt{offtab}}}$
 </p>
 
 <br>
-
-$\color{#E53D53}\text{Hii, so}$ $\color{#D43652}\text{uhh}$ $\color{#C22F52}\text{you can}$ $\color{#B12851}\text{call me}$ $\color{#9F2150}\text{Alex or}$
-<br>
-$\color{#E53D53}\text{whatever}$ $\color{#D43652}\text{chars I}$ $\color{#C22F52}\text{cos the}$ $\color{#B12851}\text{most on PT}$ $\color{#9F2150}\text{idm, ok?}$
-<br><br>
 
 <details>
   <summary>$\color{#E53D53}\text{BYI}$</summary>
