@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/7aa63e9e-2e61-4911-9151-8f408d5b8ba2" />
-
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com" />
 
 <p>
 ${{\color{#E53D53}\texttt{he}}}$
@@ -25,7 +24,7 @@ $\color{#E53D53}\text{whatever}$ $\color{#D43652}\text{chars I}$ $\color{#C22F52
 <br><br>
 
 <details>
-  <summary>$\color{#E53D53}\text{B}\color{#C22F52}\text{Y}\color{#9F2150}\text{I}$</summary>
+  <summary>$\color{#E53D53}\text{BYI}$</summary>
   <br>
     <details>
       <summary>$\color{#E53D53}\text{click}$ $\color{#9F2150}\text{this}$</summary>
@@ -35,16 +34,16 @@ $\color{#E53D53}\text{whatever}$ $\color{#D43652}\text{chars I}$ $\color{#C22F52
       $\color{#E53D53}\text{humor, I'd}$ $\color{#D43652}\text{honestly}$ $\color{#C22F52}\text{recommend}$ $\color{#B12851}\text{not interacting}$ $\color{#9F2150}\text{with me}$
     </details>
     <details>
-      <summary>$\color{#E53D53}\text{I}\color{#C22F52}\text{W}\color{#9F2150}\text{C}$</summary>
-      $\color{#E53D53}\text{w}\color{#C22F52}\text{i}\color{#9F2150}\text{p}$
+      <summary>$\color{#9F2150}\text{IWC}$</summary>
+      $\color{#E53D53}\text{w}\color{#9F2150}\text{i}\color{#E53D53}\text{p}$
     </details>
     <details>
-      <summary>$\color{#E53D53}\text{D}\color{#C22F52}\text{N}\color{#9F2150}\text{I}$</summary>
-      $\color{#E53D53}\text{w}\color{#C22F52}\text{i}\color{#9F2150}\text{p}$
+      <summary>$\color{#E53D53}\text{DNI}$</summary>
+      $\color{#E53D53}\text{w}\color{#9F2150}\text{i}\color{#E53D53}\text{p}$
     </details>
     <details>
-      <summary>$\color{#E53D53}\text{Things}$ $\color{#C22F52}\text{i}$ $\color{#9F2150}\text{like}$</summary>
-      $\color{#E53D53}\text{w}\color{#C22F52}\text{i}\color{#9F2150}\text{p}$
+      <summary>$\color{#9F2150}\text{Things i like}$</summary>
+      $\color{#E53D53}\text{w}\color{#9F2150}\text{i}\color{#E53D53}\text{p}$
     </details>
 </details>
 
