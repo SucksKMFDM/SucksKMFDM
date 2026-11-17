@@ -25,7 +25,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
     <details>
       <summary>$\color{#E53D53}\text{click}$ $\color{#9F2150}\text{this}$</summary>
       <br>
-      $\color{#E53D53}\text{I'm pretty}$ $\color{#D43652}\text{mean sometimes}$ $\color{#C22F52}\text{and make}$ $\color{#B12851}\text{a lot of}$ $\color{#9F2150}\text{crude, sarcastic}$ <br>
+      $\color{#E53D53}\text{I'm pretty}$ $\color{#D43652}\text{mean }$ $\color{#C22F52}\text{and make}$ $\color{#B12851}\text{a lot of}$ $\color{#9F2150}\text{crude, sarcastic}$ <br>
       $\color{#E53D53}\text{jokes that}$ $\color{#D43652}\text{definitely}$ $\color{#C22F52}\text{aren't suitable}$ $\color{#B12851}\text{for everyone.}$ $\color{#9F2150}\text{If you're}$ <br>
       $\color{#E53D53}\text{easily offended}$ $\color{#D43652}\text{or can't}$ $\color{#C22F52}\text{handle that}$ $\color{#B12851}\text{kind of}$ $\color{#9F2150}\text{humor, I'd}$ <br>
       $\color{#E53D53}\text{probably}$ $\color{#D43652}\text{recommend not}$ $\color{#C22F52}\text{interacting}$ $\color{#B12851}\text{with me.}$ $\color{#9F2150}\text{I'm not}$ <br>
