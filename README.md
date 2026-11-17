@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/f1188260-b196-40e8-a28a-c1749134f733" />
+<img width="1024" height="1024" alt="Untitled1641_20261116225141" src="https://github.com/user-attachments/assets/068dabf7-3a6a-4684-ab6b-bf19ebb932a0" />
 
 
 <p>
@@ -51,8 +51,6 @@ $\color{#E53D53}\text{whatever}$ $\color{#9F2150}\text{chars I}$ $\color{#E53D53
     </details>
 </details>
 
-
-<img width="1024" height="1024" alt="Untitled1641_20261116225141" src="https://github.com/user-attachments/assets/068dabf7-3a6a-4684-ab6b-bf19ebb932a0" />
 
 
 
