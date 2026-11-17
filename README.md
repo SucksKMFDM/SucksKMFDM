@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/86ac2c83-bdc4-4701-ba50-2d507460812a" />
+<img width="1024" height="1024" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/eaa2ca0b-a315-410d-aacb-3ee0fbea00ad" />
 
 
 <p>
@@ -25,10 +25,16 @@ ${{\color{#9F2150}\texttt{offtab}}}$
     <details>
       <summary>$\color{#E53D53}\text{click}$ $\color{#9F2150}\text{this}$</summary>
       <br>
-      $\color{#E53D53}\text{I'm a}$ $\color{#D43652}\text{pretty mean}$ $\color{#C22F52}\text{person at}$ $\color{#B12851}\text{times and}$ $\color{#9F2150}\text{tend to}$ <br>
-      $\color{#E53D53}\text{make a lot}$ $\color{#D43652}\text{of crude,}$ $\color{#C22F52}\text{sarcastic}$ $\color{#B12851}\text{jokes. So,}$ $\color{#9F2150}\text{if you're}$ <br>
-      $\color{#E53D53}\text{overly}$ $\color{#D43652}\text{sensitive}$ $\color{#C22F52}\text{or can't}$ $\color{#B12851}\text{handle that}$ $\color{#9F2150}\text{sort of}$ <br>
-      $\color{#E53D53}\text{humor, I'd}$ $\color{#D43652}\text{honestly}$ $\color{#C22F52}\text{recommend}$ $\color{#B12851}\text{not interacting}$ $\color{#9F2150}\text{with me}$
+      $\color{#E53D53}\text{I'm pretty}$ $\color{#D43652}\text{mean sometimes}$ $\color{#C22F52}\text{and make}$ $\color{#B12851}\text{a lot of}$ $\color{#9F2150}\text{crude, sarcastic}$ <br>
+      $\color{#E53D53}\text{jokes that}$ $\color{#D43652}\text{definitely}$ $\color{#C22F52}\text{aren't suitable}$ $\color{#B12851}\text{for everyone.}$ $\color{#9F2150}\text{If you're}$ <br>
+      $\color{#E53D53}\text{easily offended}$ $\color{#D43652}\text{or can't}$ $\color{#C22F52}\text{handle that}$ $\color{#B12851}\text{kind of}$ $\color{#9F2150}\text{humor, I'd}$ <br>
+      $\color{#E53D53}\text{probably}$ $\color{#D43652}\text{recommend not}$ $\color{#C22F52}\text{interacting}$ $\color{#B12851}\text{with me.}$ $\color{#9F2150}\text{I'm not}$ <br>
+      $\color{#E53D53}\text{really someone}$ $\color{#D43652}\text{who goes}$ $\color{#C22F52}\text{out of}$ $\color{#B12851}\text{their way}$ $\color{#9F2150}\text{to talk}$ <br>
+      $\color{#E53D53}\text{to people}$ $\color{#D43652}\text{I don't}$ $\color{#C22F52}\text{know, either,}$ $\color{#B12851}\text{so chances}$ $\color{#9F2150}\text{are I}$ <br>
+      $\color{#E53D53}\text{won't be}$ $\color{#D43652}\text{the one}$ $\color{#C22F52}\text{starting a}$ $\color{#B12851}\text{conversation.}$ $\color{#9F2150}\text{I'm pretty}$ <br>
+      $\color{#E53D53}\text{avoidant around}$ $\color{#D43652}\text{strangers and}$ $\color{#C22F52}\text{usually won't}$ $\color{#B12851}\text{bother talking}$ $\color{#9F2150}\text{unless I}$ <br>
+      $\color{#E53D53}\text{actually know}$ $\color{#D43652}\text{you. I'm}$ $\color{#C22F52}\text{just not}$ $\color{#B12851}\text{all that}$ $\color{#9F2150}\text{sociable with}$ <br>
+      $\color{#E53D53}\text{people I'm}$ $\color{#C22F52}\text{unfamiliar}$ $\color{#9F2150}\text{with.}$
       <br><br>
     </details>
     <br>
