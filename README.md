@@ -4,17 +4,7 @@
 
 
 <p>
-${{\color{#E53D53}\texttt{he}}}$
-${{\color{#9F2150}\texttt{him}}}$
-<br>
-${{\color{#E53D53}\texttt{8}}}$
-${{\color{#9F2150}\texttt{teen}}}$
-<br>
-${{\color{#E53D53}\texttt{15-}}}$
-${{\color{#9F2150}\texttt{iwecuc}}}$
-${{\color{#E53D53}\texttt{w2i}}}$
-${{\color{#9F2150}\texttt{mostly}}}$
-${{\color{#E53D53}\texttt{offtab}}}$
+ ${{\color{#E53D53}\texttt{he }}}$ ${{\color{#9F2150}\texttt{him}}}$ <img align="center" ${{\color{#E53D53}\texttt{ㅤ8}}}$ ${{\color{#9F2150}\texttt{teen}}}$ <p align="center"> ${{\color{#E53D53}\texttt{15-}}}$ ${{\color{#9F2150}\texttt{iwecuc }}}$ ${{\color{#E53D53}\texttt{w2i}}}$ ${{\color{#9F2150}\texttt{mostly}}}$ ${{\color{#E53D53}\texttt{offtab}}}$
 </p>
 
 <br>
