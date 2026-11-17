@@ -33,7 +33,7 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{to people}$ $\color{#D43652}\text{I don't}$ $\color{#C22F52}\text{know, either,}$ $\color{#B12851}\text{so chances}$ $\color{#9F2150}\text{are I}$ <br>
       $\color{#E53D53}\text{won't be}$ $\color{#D43652}\text{the one}$ $\color{#C22F52}\text{starting a}$ $\color{#B12851}\text{conversation.}$ $\color{#9F2150}\text{I'm pretty}$ <br>
       $\color{#E53D53}\text{avoidant around}$ $\color{#D43652}\text{strangers and}$ $\color{#C22F52}\text{usually won't}$ $\color{#B12851}\text{bother talking}$ $\color{#9F2150}\text{unless I'm}$ <br>
-      $\color{#E53D53}\text{in the}$ $\color{#D43652}\text{mood or}$ $\color{#C22F52}\text{actually know}$ $\color{#B12851}\text{you. I'm}$ $\color{#9F2150}\text{just not}$ <br>
+      $\color{#E53D53}\text{in the}$ $\color{#D43652}\text{mood or}$ $\color{#C22F52}\text{actually know}$ $\color{#B12851}\text{you. I'm}$ $\color{#9F2150}\text{not }$ <br>
       $\color{#E53D53}\text{all that}$ $\color{#D43652}\text{sociable with}$ $\color{#C22F52}\text{people I'm}$ $\color{#B12851}\text{unfamiliar}$ $\color{#9F2150}\text{with.}$
       <br><br>
     </details>
