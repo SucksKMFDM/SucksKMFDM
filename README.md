@@ -29,7 +29,7 @@ $\color{#E53D53}\text{whatever}$ $\color{#9F2150}\text{chars I}$ $\color{#E53D53
   <summary>$\color{#E53D53}\text{BYI}$</summary>
   <br>
     <details>
-      <summary>$\color{#E53D53}\text{read }$ $\color{#9F2150}\text{this}$</summary>
+      <summary>$\color{#E53D53}\text{click }$ $\color{#9F2150}\{this}$</summary>
       $\color{#E53D53}\text{-}$ $\color{#9F2150}\text{Im}$ $\color{#E53D53}\text{18}$ $\color{#9F2150}\text{years}$ $\color{#E53D53}\text{old}$ <br>
       $\color{#E53D53}\text{- Minors}$ $\color{#9F2150}\text{under 15}$ $\color{#E53D53}\text{plz DNI}$ $\color{#9F2150}\text{Im not}$ $\color{#E53D53}\text{comfortable}$ <br>
       $\color{#E53D53}\text{talking}$ $\color{#9F2150}\text{to}$ $\color{#E53D53}\text{any1 younger}$ $\color{#9F2150}\text{then}$ $\color{#E53D53}\text{that}$ <br>
