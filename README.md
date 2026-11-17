@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1024" height="1024" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/eaa2ca0b-a315-410d-aacb-3ee0fbea00ad" />
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/f0a40181-2f2a-4685-83f6-8607404f8ecc" />
 
 
 <p>
@@ -32,9 +32,9 @@ ${{\color{#9F2150}\texttt{offtab}}}$
       $\color{#E53D53}\text{really someone}$ $\color{#D43652}\text{who goes}$ $\color{#C22F52}\text{out of}$ $\color{#B12851}\text{their way}$ $\color{#9F2150}\text{to talk}$ <br>
       $\color{#E53D53}\text{to people}$ $\color{#D43652}\text{I don't}$ $\color{#C22F52}\text{know, either,}$ $\color{#B12851}\text{so chances}$ $\color{#9F2150}\text{are I}$ <br>
       $\color{#E53D53}\text{won't be}$ $\color{#D43652}\text{the one}$ $\color{#C22F52}\text{starting a}$ $\color{#B12851}\text{conversation.}$ $\color{#9F2150}\text{I'm pretty}$ <br>
-      $\color{#E53D53}\text{avoidant around}$ $\color{#D43652}\text{strangers and}$ $\color{#C22F52}\text{usually won't}$ $\color{#B12851}\text{bother talking}$ $\color{#9F2150}\text{unless I}$ <br>
-      $\color{#E53D53}\text{actually know}$ $\color{#D43652}\text{you. I'm}$ $\color{#C22F52}\text{just not}$ $\color{#B12851}\text{all that}$ $\color{#9F2150}\text{sociable with}$ <br>
-      $\color{#E53D53}\text{people I'm}$ $\color{#C22F52}\text{unfamiliar}$ $\color{#9F2150}\text{with.}$
+      $\color{#E53D53}\text{avoidant around}$ $\color{#D43652}\text{strangers and}$ $\color{#C22F52}\text{usually won't}$ $\color{#B12851}\text{bother talking}$ $\color{#9F2150}\text{unless I'm}$ <br>
+      $\color{#E53D53}\text{in the}$ $\color{#D43652}\text{mood or}$ $\color{#C22F52}\text{actually know}$ $\color{#B12851}\text{you. I'm}$ $\color{#9F2150}\text{just not}$ <br>
+      $\color{#E53D53}\text{all that}$ $\color{#D43652}\text{sociable with}$ $\color{#C22F52}\text{people I'm}$ $\color{#B12851}\text{unfamiliar}$ $\color{#9F2150}\text{with.}$
       <br><br>
     </details>
     <br>
