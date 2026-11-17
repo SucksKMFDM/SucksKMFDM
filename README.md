@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="400" height="400" alt="another recolor" src="https://github.com" />
+<img width="1024" height="1024" alt="Untitled1641_20261116224633" src="https://github.com/user-attachments/assets/f1188260-b196-40e8-a28a-c1749134f733" />
+
 
 <p>
 ${{\color{#E53D53}\texttt{he}}}$
