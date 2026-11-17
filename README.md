@@ -1,17 +1,16 @@
 <div align="center">
 
-<img width="400" height="400" alt="Untitled1641_20261117050615" src="https://github.com/user-attachments/assets/d65084e3-7f03-4cf8-933e-556b2dbba8c4" />
-
+<img width="400" height="400" alt="Untitled1641_20261116224633" src="https://github.com" />
 
 <p>
 ${{\color{#E53D53}\texttt{he}}}$
 ${{\color{#9F2150}\texttt{him}}}$
-<br>
 ${{\color{#E53D53}\texttt{8}}}$
 ${{\color{#9F2150}\texttt{teen}}}$
-<br>
+<br><br>
 ${{\color{#E53D53}\texttt{15-}}}$
 ${{\color{#9F2150}\texttt{iwecuc}}}$
+&nbsp;&nbsp;&nbsp;&nbsp;
 ${{\color{#E53D53}\texttt{w2i}}}$
 ${{\color{#9F2150}\texttt{mostly}}}$
 ${{\color{#E53D53}\texttt{offtab}}}$
