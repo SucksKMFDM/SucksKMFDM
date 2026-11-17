@@ -46,7 +46,7 @@ $\color{#E53D53}\text{whatever}$ $\color{#9F2150}\text{chars I}$ $\color{#E53D53
       $\color{#E53D53}\text{w}$$\color{#9F2150}\text{i}$$\color{#E53D53}\text{p}$
     </details>
     <details>
-      <summary>$\color{#9F2150}\text{Ships}$</summary>
+      <summary>$\color{#9F2150}\text{Things i like}$</summary>
       $\color{#E53D53}\text{w}$$\color{#9F2150}\text{i}$$\color{#E53D53}\text{p}$
     </details>
 </details>
